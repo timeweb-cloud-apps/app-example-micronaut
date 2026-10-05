@@ -1,6 +1,6 @@
 Пример приложения Micronaut, которое можно развернуть в Timeweb Cloud Apps без настройки.
 
-🎉 [Демо]
+🎉 [Демо](https://twc-app-example-fiber.twc1.net)
 
 🚀 [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
